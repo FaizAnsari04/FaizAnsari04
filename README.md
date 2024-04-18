@@ -7,7 +7,7 @@ Hello, I'm Faiz Ansari. Welcome to my GitHub profile! Here you will find a colle
 - 🌱 I’m currently learning full stack web development
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about anything related to programming and technology
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faiz-ansari-843410143/)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/faiz-ansari-22b025213)
 - 😄 Pronouns: He/Him
 
 ## Skills
