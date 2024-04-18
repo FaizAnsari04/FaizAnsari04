@@ -18,7 +18,7 @@ Hello, I'm Faiz Ansari. Welcome to my GitHub profile! Here you will find a colle
 - Version Control: Git
 
 ## Projects
-- [Weather App](https://github.com/FaizAnsari04/weather-app): A simple weather application using React
+- [Weather App](https://faizansari04.github.io/Dynamic-Weather-App/): A simple weather application using React
 - [Portfolio](https://faizansari04.github.io/Portfolio/): A basic to-do list application using HTML, CSS, and JavaScript
 - [Dynamic Clock](https://faizansari04.github.io/Dynamic-Clock-/):Dynamic Live Clock
 
